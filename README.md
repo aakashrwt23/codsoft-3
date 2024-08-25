@@ -1,2 +1,2 @@
-# codsoft-3
+# Encryptix-3
 calculator 
